@@ -9,4 +9,6 @@ const authPedidos = (req, res, next) => {
     res.redirect('/users/login')
 }
 
+//teste
+
 module.exports = authPedidos
