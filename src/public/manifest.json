@@ -3,32 +3,32 @@
    "short_name": "Clickbeer",
    "icons": [
        {
-           "src": "imgs/Android/icon-48.png",
+           "src": "/imgs/Android/icon-48.png",
            "type": "image/png",
            "sizes": "48x37"
        },
        {
-           "src": "imgs/Android/icon-72.png",
+           "src": "/imgs/Android/icon-72.png",
            "type": "image/png",
            "sizes": "72x55"
        },
        {
-           "src": "imgs/Android/icon-96.png",
+           "src": "/imgs/Android/icon-96.png",
            "type": "image/png",
            "sizes": "96x74"
        },
        {
-           "src": "imgs/Android/icon-144.png",
+           "src": "/imgs/Android/icon-144.png",
            "type": "image/png",
            "sizes": "144x144"
        },
        {
-           "src": "imgs/Android/icon-192.png",
+           "src": "/imgs/Android/icon-192.png",
            "type": "image/png",
            "sizes": "192x148"
        },
        {
-           "src": "imgs/Android/icon-512.png",
+           "src": "/imgs/Android/icon-512.png",
            "type": "image/png",
            "sizes": "512x396"
        }      
