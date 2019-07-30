@@ -1,0 +1,44 @@
+{
+   "name": "Click Beer",
+   "short_name": "Clickbeer",
+   "icons": [
+       {
+           "src": "imgs/Android/icon-48.png",
+           "type": "image/png",
+           "sizes": "48x48"
+       },
+       {
+           "src": "imgs/Android/icon-72.png",
+           "type": "image/png",
+           "sizes": "72x72"
+       },
+       {
+           "src": "imgs/Android/icon-96.png",
+           "type": "image/png",
+           "sizes": "96x96"
+       },
+       {
+           "src": "imgs/Android/icon-144.png",
+           "type": "image/png",
+           "sizes": "144x111"
+       },
+       {
+           "src": "imgs/Android/icon-192.png",
+           "type": "image/png",
+           "sizes": "192x192"
+       },
+       {
+           "src": "imgs/Android/icon-512.png",
+           "type": "image/png",
+           "sizes": "512x512"
+       }      
+   ],
+   "start_url": "https://click-beer.herokuapp.com/",
+   "scope": ".",
+   "display": "standalone",
+   "orientation": "portrait-primary",
+   "background_color": "#fff",
+   "theme_color": "#b94803",
+   "dir": "ltr",
+   "lang": "pt-BR"
+}

@@ -1,3 +1,11 @@
+if('serviceWorker' in navigator) {
+  navigator.serviceWorker
+  .register('/sw.js')
+  .then(() => {
+    console.log('Service Worker registrado')
+  })
+}
+
 $(function() {
     $('form.require-validation').bind('submit', function(e) {
       var $form         = $(e.target).closest('form'),
