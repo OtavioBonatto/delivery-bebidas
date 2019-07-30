@@ -33,7 +33,7 @@
            "sizes": "512x512"
        }      
    ],
-   "start_url": "https://click-beer.herokuapp.com/",
+   "start_url": "https://clickbeer.herokuapp.com/",
    "scope": ".",
    "display": "standalone",
    "orientation": "portrait-primary",
